@@ -11,8 +11,6 @@ namespace stream {
 
     /**
      * Tcp server socket wrapper class
-     * @version v1.1
-     * @author Andrej Ancimer
      */
     class TcpServer {
     public:
